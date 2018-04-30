@@ -1,10 +1,10 @@
 # frontendgridtest
 
-.Install wordpress and activate Twenty Seventeen 
-. custome settings choose frontpage and single column page template
-3. Install plugin ACF for easy editor JSON data - import - ACF JSON file and assign to grid page
-4. Upload all media files
-5. open grid page, add all media images and titles, tabs, decscription etc.. 
+1) Install wordpress and activate Twenty Seventeen.
+2) custome settings choose frontpage and single column page template.
+3) Install plugin ACF for easy editor JSON data - import - ACF JSON file and assign to grid page
+4) Upload all media files
+5) open grid page, add all media images and titles, tabs, decscription etc.. 
 
 
 Following steps explanation : 
